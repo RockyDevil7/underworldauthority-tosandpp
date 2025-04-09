@@ -1,6 +1,6 @@
 **📄 Terms of Service for Underworld Authority**
 
-Effective Date: [Insert Date]
+Effective Date: 25-4-9
 
 By inviting or using Underworld Authority, you agree to the following terms:
 1. Usage
