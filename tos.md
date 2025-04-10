@@ -37,7 +37,7 @@ You may not use the bot to:
 
 By using the bot, you agree that:
 
-    You are solely responsible for your actions, messages, and choices in the game.
+    Anything that came out of your account including messages, actions and choices in the game will be your responsibility
 
     You understand and accept the risks of in-game losses (e.g., money, items, status).
 
