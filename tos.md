@@ -34,3 +34,5 @@ By inviting or using Underworld Authority, you agree to the following terms:
     We may update or remove features at any time without prior notice.
 
     These Terms of Service may be updated, and continued use after changes implies agreement.
+
+    **You agree to terms of conditions by using the bot.**
