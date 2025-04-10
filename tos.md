@@ -1,38 +1,85 @@
-**📄 Terms of Service for Underworld Authority**
+📄 Terms of Service for Underworld Authority
 
-Effective Date: 25-4-9
+Effective Date: April 9, 2025
 
-By inviting or using Underworld Authority, you agree to the following terms:
-1. Usage
+By inviting, using, or interacting with Underworld Authority, you agree to the following terms:
+1. 🔞 Usage Eligibility
 
-    You must be 13 years or older, in accordance with Discord's Terms of Service.
+    You must be 13 years or older to use this bot, in compliance with Discord’s Terms of Service.
 
-    You agree not to abuse or exploit any features of the bot.
+    You are responsible for ensuring your use of the bot is legal in your jurisdiction.
 
-    You may not use the bot for any malicious or illegal activities, roleplay or otherwise.
+    Use of the bot constitutes agreement to these Terms and the Privacy Policy.
 
-    We reserve the right to remove access to the bot from any user or server at our discretion.
+2. ⚠️ Prohibited Conduct
 
-2. Thematic Content
+You may not use the bot to:
 
-    This bot is mafia-themed and contains fictional references to criminal activities (e.g., smuggling, drug operations, wars).
+    Exploit, abuse, or manipulate game features or bugs
 
-    All such content is purely for entertainment purposes and does not encourage or promote real-life crime.
+    Engage in real-world criminal, illegal, or malicious activity
 
-3. Disclaimer
+    Harass, threaten, or abuse other users
 
-    We are not responsible for any losses, misuse, or offensive interactions that result from the bot.
+    Perform or encourage behavior that violates Discord's Community Guidelines
 
-    Underworld Authority and its developers are not liable for any illegal or inappropriate use of the bot.
+3. 🎭 Thematic Content Notice
 
-    Use the bot responsibly and at your own risk.
+    Underworld Authority is a fictional mafia-themed game.
 
-4. Availability & Changes
+    It includes references to activities such as drug trading, smuggling, and turf wars purely for entertainment.
 
-    We do not guarantee 24/7 uptime or uninterrupted service.
+    No real-life illegal actions are promoted, encouraged, or condoned.
 
-    We may update or remove features at any time without prior notice.
+    Any player roleplaying real violence or crimes outside the game's context may be banned.
 
-    These Terms of Service may be updated, and continued use after changes implies agreement.
+4. ⚖️ User Responsibility
 
-    **You agree to terms of conditions by using the bot.**
+By using the bot, you agree that:
+
+    You are solely responsible for your actions, messages, and choices in the game.
+
+    You understand and accept the risks of in-game losses (e.g., money, items, status).
+
+    You will use the bot responsibly, without attempting to harm others or the bot’s systems.
+
+5. 🛑 Access & Termination
+
+We reserve the right to:
+
+    Deny, suspend, or remove access from any user or server, at any time, for any reason
+
+    Enforce cooldowns, penalties, or bans based on in-game behavior
+
+    Modify, disable, or retire features with or without notice
+
+6. 📉 Availability & Updates
+
+    We do not guarantee uptime or that the bot will remain online continuously.
+
+    Features may be added, removed, or changed at any time.
+
+    Continued use after updates implies acceptance of the new Terms.
+
+7. 🛡️ Disclaimer of Liability
+
+    Underworld Authority and its developers are not liable for:
+
+        Any direct or indirect losses caused by the bot
+
+        Misuse by users or third parties
+
+        Inappropriate or illegal roleplay or behavior on your server
+
+    All use of the bot is at your own risk.
+
+8. 📜 Governing Law
+
+These Terms are governed by and interpreted under the laws of your country or region. Disputes will be handled accordingly.
+9. 📬 Contact
+
+For support, removal requests, or questions:
+
+    Email: rockymalik984@gmail.com
+
+    Support Server: https://discord.gg/BXTEbvVXpw
