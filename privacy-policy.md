@@ -1,42 +1,107 @@
-**🔒 Privacy Policy for Underworld Authority**
+🔒 Privacy Policy for Underworld Authority
 
-Effective Date: 29-4-10
-1. What We Collect
+Effective Date: April 10, 2025
+1. Information We Collect
 
-To power the bot's features, we may store the following:
+To provide game features and maintain fair gameplay, we collect and store:
 
-    User IDs and Server IDs
+    Discord User IDs and Server (Guild) IDs
 
-    In-bot economy stats (e.g., funds, items, territories)
+    Economy-related game data such as:
 
-    Family/gang affiliation and activity logs
+        In-game currency, items, drugs, and territories
 
-We do not collect:
+        Gang/family affiliations
 
-    Personal identifying info (e.g., email addresses, real names)
+        Smuggle, war, and other command logs
+
+We do NOT collect:
+
+    Real names, email addresses (unless voluntarily provided for support)
 
     Private messages or any non-command content
 
+    Sensitive personal data
+
 2. Why We Store This Data
 
-    To enable progression-based features like families, wars, and smuggling
+We store this data to:
 
-    To keep economy, ownership, and reputation systems consistent
+    Power progression features like families, smuggling, wars, and leaderboards
 
-3. Data Sharing
+    Maintain consistency in economy, ownership, and reputation
 
-    Your data is never sold or shared with third parties.
+    Provide a better and fair experience to all players
 
-    We may share data only if required by law or for serious abuse reports.
+3. Data Sharing Policy
 
-4. Data Removal
+    We do not sell or share your data with third-party companies.
 
-If you want your data removed from our system:
+    Data may be disclosed only under these conditions:
 
-    Contact the developers through our support server: https://discord.gg/BXTEbvVXpw
+        Required by law enforcement
 
-    Or via email : rockymalik984@gmail.com
+        Reports of severe abuse or exploitation
 
-5. Security Notice
+        Server moderation or user safety concerns
 
-While we take measures to protect your data, no system is 100% secure. Use of the bot is at your own risk.
+4. Children's Privacy (COPPA Compliance)
+
+    Underworld Authority is not intended for users under the age of 13.
+
+    We do not knowingly collect information from children under 13.
+
+    If you are a parent or guardian and believe your child has used the bot, contact us immediately and we will delete their data.
+
+5. Data Removal & User Rights
+
+You have the right to request:
+
+    Complete data deletion
+
+    A summary of stored data linked to your ID
+
+    Correction of incorrect in-bot data (e.g., ownership bugs)
+
+To request data deletion or updates:
+
+    Join our Support Server : https://discord.com/invite/BXTEbvVXpw
+
+    Or email: rockymalik984@gmail.com
+
+6. Data Retention
+
+We retain user data as long as:
+
+    Your account remains active on a server using the bot
+
+    You participate in active families/gangs or economy systems
+
+Inactive or deleted user data may be purged periodically.
+7. Security & Risk
+
+    We use reasonable technical and organizational precautions to protect your data.
+
+    However, no system is 100% secure — by using the bot, you accept this risk.
+
+    Use of Underworld Authority is at your own discretion and responsibility.
+
+8. Disclaimer of Liability
+
+Underworld Authority is a fictional, mafia-themed game. By using this bot:
+
+    You agree that the developers are not responsible for:
+
+        Any in-game losses, including money, items, or progress
+
+        Misuse by other users or staff in your server
+
+        Any illegal roleplay actions taken in the context of the game
+
+    Real-world criminal activity or threats made using this bot will be reported.
+
+9. Contact
+
+For any questions, legal inquiries, or concerns:
+📧 Email: rockymalik984@gmail.com
+💬 Support Server: https://discord.gg/BXTEbvVXpw
