@@ -1,6 +1,6 @@
 **🔒 Privacy Policy for Underworld Authority**
 
-Effective Date: [Insert Date]
+Effective Date: 29-4-10
 1. What We Collect
 
 To power the bot's features, we may store the following:
